@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cimarron on Cimarron</title>
-    <link>https://cimarron.io/</link>
-    <description>Recent content in Cimarron on Cimarron</description>
+    <title>Projects on Cimarron</title>
+    <link>https://cimarron.io/project/</link>
+    <description>Recent content in Projects on Cimarron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cimarron.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Visualización de Datos con Altair</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://cimarron.io/project/visualizaci%C3%B3n-de-datos-con-altair/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/cimarron-io/guia-altair&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;GitHub-Mark-32px.png&#34;  height=&#34;32px&#34; width=&#34;32px&#34; title=&#34;GitHub Repo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

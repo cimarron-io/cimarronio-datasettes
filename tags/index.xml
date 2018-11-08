@@ -11,5 +11,23 @@
 	<atom:link href="https://cimarron.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>altair</title>
+      <link>https://cimarron.io/tags/altair/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cimarron.io/tags/altair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://cimarron.io/tags/python/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cimarron.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
