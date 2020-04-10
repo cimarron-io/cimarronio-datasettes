@@ -1,85 +1,90 @@
 <p align="center">
-<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Codeando México"><br>
-<a href="http://www.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
-<a href="http://slack.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
+<img src="http://cimarron.io/assets/images/logo.png" width="500" alt="Cimarrón IO"><br>
+<a href="https://www.cimarron.io]/" target="_blank"><img src="https://img.shields.io/badge/website-Cimarr%C3%B3n%20IO-cd0d7a.svg"></a>
+<a href="http://tacosdedatos.slack.com/" target="_blank"><img src="https://img.shields.io/badge/slack-tacosdedatos-19267c.svg"></a>
 </p>
 
 
-# Eventos globales
+# Announcements
 
-**tl;dr:** Plataforma que alberga una lista curada de tecnología cívica en México.
-
-
-## Tabla de contenidos
-
-- [Acerca del proyecto](#acerca-del-proyecto)
-- [Contribuye](#contribuye)
-- [Atribuciones](#atribuciones)
+**tl;dr:** Imaginemos cosas chingonas.
 
 
-## Acerca del proyecto
+## Table of Contents
 
-Este es un proyecto de la comunidad que busca cetralizar todas las tecnologíac cívicas que existen en nuestro país. El sitio puedes verlo en el [siguiente enlace](https://codeandomexico.github.io//awesome-civic-tech/).
+- [About the project](#about-the-project)
+- [Contribute](#contribute)
+- [Attributions](#Attributions)
 
-Si te interesa contribuir al proyecto, echa un vistazo a la siguiente sección.
 
+## About the project
 
-## Contribuye
+Cimarrón is a group of creative and skilled individuals looking to solve every day problems in the most efficient and creative way using technology.
 
-¡Cualquier sugerencia o contribución a este repositorio es bien recibida!
+We believe technology has the potential to empower anyone regardless of one’s status. We focus our efforts in creating high-quality open-sourced data and technology products.
 
-Si necesita ayuda, escribe directamente a <rodo@codeandomexico.org> o en nuestro [Slack](http://slack.codeandomexico.org/).
+[Website](https://cimarron.io/).
 
-### Añade un evento
+If you would like to contribute, keep reading.
 
-1. Crea un fork del repositorio a tu cuenta de GitHub.
+## Contribute
 
-2. Clona tu fork del repo:
+All contributions are welcome!
+
+If you need help, create an issue on the repo [cimarron-io/cimarron-io.github.io/](https://github.com/cimarron-io/cimarron-io.github.io/issues) or join us on the tacosdedatos slack at [tacosdedatos.slack.com](https://tacosdedatos.slack.com)
+
+### Add a project
+
+1. Fork the repository to your GitHub account.
+
+2. Clone the fork of your repo:
    ```bash
-   git clone https://github.com/<TU-USUARIO>/eventos-globales.git
-   cd awesome-civic-tech/
+   git clone https://github.com/<YOUR-USERNAME>/cimarron-io/cimarron.io-github.io.git
+   cd cimarron-io.github.io/
    ```
 
-3. Crea una rama con el nombre de la tecnología cívica que deseas agregar, en este ejemplo supongamos que agregaré la [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md) del sitio:
+3. Create a branch with the name of the project you wish to add:
    ```bash
-   git checkout -b plantilla  # esto creará una nueva rama de nombre 'plantilla' y se moverá a ella
+   git checkout -b project-name  # this creates a brand new branch and switches to it
    ```
 
-4. Crea el archivo que contenga la información del evento. El archivo deberá ser guardado en la carpeta [`_posts`](https://github.com/CodeandoMexico/awesome-civic-tech/tree/master/_posts) con el formato `AAAA-MM-DD-tecnología.md`, donde `AAAA`, `MM` y `DD` corresponden al año, mes y día en que se agrega la tecnología al directorio, respectivamente. Puedes tomar como referencia justamente el archivo [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md).
+4. Create the file with the project information. This file must be saved on the folder [`_posts`](https://github.com/cimarron-io/cimarron-io.github.io/tree/master/_posts) with the name format `YYYY-MM-DD-project-name.md`, where `YYYY`, `MM`, and `DD` are the Year, Month and Day you're adding the project to the folder. You can use the template file [template.md](https://github.com/cimarron-io/cimarron-io.github.io/blob/master/_posts/2020-01-22-template.md).
 
-5. Crea un Pull Request (PR) de la rama que has creado a la rama `master` del repositorio original y solicita una revisión a **@RodolfoFerro**.
+5. Create a Pull Request (PR) from your branch to the `master` branch of the orginal repo and add **@chekos** as a reviewer.
 
-**NOTA:** Por favor realiza un PR por tecnología.
+**NOTE:** Please use one PR per project.
 
 
 
-### Modifica el sitio
+### Modifying the site
 
-Por favor abre un issue donde menciones los cambios que te gustaría agregar y menciona a **@RodolfoFerro**. En dado caso, se te asignaría el issue y esperaremos tu PR donde te pediremos solicites una revisión a **@RodolfoFerro** para revisar y aceptar tus cambios al sitio.
+Please open an issue where you mention the changes you would like to make and mention **@chekos**. You will be assigned the issue and we will await your PR where we ask that you add **@chekos** as a reviewer.
 
-Si deseas correr el sitio de manera local, ejecuta los siguientes pasos:
+If you wish to run the site locally, execute the following commands:
 
-1. Instala los requerimientos:
+1. Install requirements:
    ```bash
    bundle install
    ```
 
-2. Corre el servidor:
+2. Run the server:
    ```bash
    bundle exec jekyll serve
    ```
 
-3. Abre <http://localhost:4000/awesome-civic-tech> en tu navegador.
+3. Open <http://localhost:4000/cimarron-io.github.io> in your browser.
 
-El comando del paso 2 te permite hacer modificaciones y visualizar los cambios en tiempo real dentro de tu localhost.
+The command in step 2 allows you to make changes and visualize them in real time on your browser.
 
 
-## Atribuciones
+## Attributions
+
+- This website is based on Codeando México's Awesome Civic Tech site found at https://codeandomexico.github.io/awesome-civic-tech/
+
+Below are their attributions from the original repo:
 
 - Sitio web basado en [Pintereso Jekyll Theme](https://www.wowthemes.net/pintereso-free-bootstrap-jekyll-theme/)
 - Gracias a [Richard](https://github.com/ricardomiron) y [Rodo](https://github.com/RodolfoFerro) por las contribuciones iniciales
 - `{}` y contenidos con ❤️ por la [comunidad de Codeando México](http://slack.codeandomexico.org/)
 
 ---
-
-Este sitio cuenta con una licencia MIT.
