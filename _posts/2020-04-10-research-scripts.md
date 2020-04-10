@@ -5,8 +5,6 @@ layout: post
 
 # Research Scripts
 
-#### Description
-
 A repository of python scripts used in public policy analysis.
 
 - **Date:** 2020
