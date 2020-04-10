@@ -21,7 +21,7 @@ layout: default
                     <small class="text-muted d-block mb-3">
                         {% unless page.metadate == "hide" %} 
                             <!-- {{ page.date | date: '%B %d, %Y' }}  -->
-                            {% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
+                            {% assign months = "Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept|Oct|Nov|Dec" | split: "|" %}
                             {% assign m = page.date | date: "%-m" | minus: 1 %}
                             {% assign day = page.date | date: "%d" %}
                             {% assign month = months[m] %}
@@ -37,7 +37,7 @@ layout: default
                     
                     {% if page.visit %}
                     <p><a target="_blank" href="{{page.visit}}" class="btn btn-gray text-dark d-block font-weight-bold">
-                        Visitar sitio del evento <i class="fas fa-external-link-alt"></i></a>
+                        Visit website <i class="fas fa-external-link-alt"></i></a>
                     </p>
                     {% endif %}
                     
