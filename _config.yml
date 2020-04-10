@@ -1,6 +1,11 @@
-title: Cimarrón IO
-description: Imaginemos cosas chingonas.
-logo: assets/images/logo.png
+# Site
+title: 'Cimarrón IO'
+description: 'Imaginemos cosas chingonas.'
+logo: 'assets/images/logo.png'
+logo_full: 'assets/images/logo.png'
+favicon: 'assets/images/icon.ico'
+baseurl: '/'
+email: 'sergio@cimarron.io'
 
 include: ["_pages"]
 permalink: /:title/
@@ -34,7 +39,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 100
+paginate: 20
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

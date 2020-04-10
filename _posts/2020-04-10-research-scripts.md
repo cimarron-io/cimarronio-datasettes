@@ -1,26 +1,31 @@
 ---
-layout: post
-card_description: A repository of python scripts used in public policy analysis.
+title: "Research Scripts"
+categories: ["public policy", "python", "research"]
+image: research-scripts.png
+visit: https://github.com/cimarron-io/research-scripts/
 ---
 
-# Research Scripts
-
-#### Description
+##### About
 
 A repository of python scripts used in public policy analysis.
 
+##### Details
 - **Date:** 2020
 - **GitHub:** [https://github.com/cimarronio/research-scripts](https://github.com/cimarronio/research-scripts)
 
-#### Categories
+#### Description
 
-* Social Science
-* Python
-* Public Policy
-* Research
+- **Public Policy Analysis**
+  Higher education. 
+- **Python scripts**
+  and jupyter notebooks
+- **etc**
+  TODO
 
-#### Contact
+##### Contact
 
 Owners:
 
 - Sergio Sánchez Zavala ([https://github.com/chekos](https://github.com/chekos))
+
+##### License
