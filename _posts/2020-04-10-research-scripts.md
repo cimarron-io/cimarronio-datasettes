@@ -11,7 +11,7 @@ A repository of python scripts used in public policy analysis.
 
 ##### Details
 - **Date:** 2020
-- **GitHub:** [https://github.com/cimarronio/research-scripts](https://github.com/cimarronio/research-scripts)
+- **GitHub:** [https://github.com/cimarron-io/research-scripts](https://github.com/cimarron-io/research-scripts)
 
 #### Description
 
