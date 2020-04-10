@@ -1,5 +1,6 @@
 ---
 layout: post
+card_description: A repository of python scripts used in public policy analysis.
 ---
 
 # Research Scripts
