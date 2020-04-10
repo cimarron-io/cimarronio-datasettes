@@ -29,3 +29,4 @@ Owners:
 - Sergio Sánchez Zavala ([https://github.com/chekos](https://github.com/chekos))
 
 ##### License
+GNU General Public License v3.0
