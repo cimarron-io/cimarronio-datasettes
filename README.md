@@ -39,7 +39,7 @@ If you need help, create an issue on the repo [cimarron-io/cimarron-io.github.io
 
 2. Clone the fork of your repo:
    ```bash
-   git clone https://github.com/<YOUR-USERNAME>/cimarron-io/cimarron.io-github.io.git
+   git clone https://github.com/<YOUR-USERNAME>/cimarron-io/
    cd cimarron-io.github.io/
    ```
 
@@ -48,7 +48,7 @@ If you need help, create an issue on the repo [cimarron-io/cimarron-io.github.io
    git checkout -b project-name  # this creates a brand new branch and switches to it
    ```
 
-4. Create the file with the project information. This file must be saved on the folder [`_posts`](https://github.com/cimarron-io/cimarron-io.github.io/tree/master/_posts) with the name format `YYYY-MM-DD-project-name.md`, where `YYYY`, `MM`, and `DD` are the Year, Month and Day you're adding the project to the folder. You can use the template file [template.md](https://github.com/cimarron-io/cimarron-io.github.io/blob/master/_posts/2020-01-22-template.md).
+4. Create the file with the project information. This file must be saved on the folder [`_posts`](https://github.com/chekos/cimarron-io/tree/master/_posts) with the name format `YYYY-MM-DD-project-name.md`, where `YYYY`, `MM`, and `DD` are the Year, Month and Day you're adding the project to the folder. You can use the template file [template.md](https://github.com/chekos/cimarron-io/blob/master/_posts/2020-01-22-template.md).
 
 5. Create a Pull Request (PR) from your branch to the `master` branch of the orginal repo and add **@chekos** as a reviewer.
 
@@ -72,7 +72,7 @@ If you wish to run the site locally, execute the following commands:
    bundle exec jekyll serve
    ```
 
-3. Open <http://localhost:4000/cimarron-io.github.io> in your browser.
+3. Open <http://localhost:4000/cimarron-io> in your browser.
 
 The command in step 2 allows you to make changes and visualize them in real time on your browser.
 
