@@ -2,16 +2,16 @@
 title: "Research Scripts"
 categories: ["public policy", "python", "research"]
 image: research-scripts.png
-visit: https://github.com/chekos/research-scripts/
+visit: https://github.com/chekos/hec-research-scripts/
 ---
 
 ##### About
 
-A repository of python scripts used in public policy analysis.
+A repository of python scripts used in higher education public policy analysis.
 
 ##### Details
 - **Date:** 2020
-- **GitHub:** [https://github.com/chekos/research-scripts](https://github.com/chekos/research-scripts)
+- **GitHub:** [https://github.com/chekos/research-scripts](https://github.com/chekos/hec-research-scripts)
 
 #### Description
 
