@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-06-11T17:11:29+00:00</updated><id>/</id><title type="html">Cimarrón IO</title><subtitle>Imaginemos cosas chingonas.</subtitle><entry><title type="html">RIPA 2018 - Wave 1</title><link href="/RIPA-2018/" rel="alternate" type="text/html" title="RIPA 2018 - Wave 1" /><published>2020-04-10T00:00:00+00:00</published><updated>2020-04-10T00:00:00+00:00</updated><id>/RIPA-2018</id><content type="html" xml:base="/RIPA-2018/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+&lt;p&gt;This datasette is serving &lt;strong&gt;R&lt;/strong&gt;acial &lt;strong&gt;I&lt;/strong&gt;dentity &lt;strong&gt;P&lt;/strong&gt;rofiling &lt;strong&gt;A&lt;/strong&gt;ct open data acquired from the California Department of Justice&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Between July 1, 2018 and December 31, 2018, the eight largest agencies in California, referred to as Wave 1, collected data on vehicle and pedestrian stops. RIPA defines a stop as a detention and/or search by a peace officer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2020&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/RIPA-2018-datasette&quot;&gt;https://github.com/chekos/RIPA-2018-datasette&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt;
+
+&lt;p&gt;This datasette is serving the first wave of open data published under RIPA. It contains information about the stops carried out between July 1, 2018 and December 31, 2018 by the eight largest agencies in California.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Agency&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Number of stops&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CHP-HQ A/C, STAFF&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,033,421&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LAPD&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;336,681&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LOS ANGELES CO SD&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;136,635&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;SAN DIEGO PD&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;89,455&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;SAN BERNARDINO CO SO&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;62,433&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;SAN FRANCISCO PD - DOC&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;56,409&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;RIVERSIDE CO SO&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;44,505&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;SAN DIEGO CO SO&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;40,515&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Total&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,800,054&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;license&quot;&gt;License&lt;/h5&gt;
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About This datasette is serving Racial Identity Profiling Act open data acquired from the California Department of Justice</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/RIPA-2018.png" /></entry></feed>
